@@ -18,8 +18,6 @@ minikube start
 eval $(minikube -p minikube docker-env)
 ```
 
-<br>
-
 <details>
   <summary>파일 구조 확인</summary>
   <div align ="center">
@@ -27,6 +25,7 @@ eval $(minikube -p minikube docker-env)
 </div>
 </details>
 
+<br>
 
 ### Docker 이미지 빌드 및 Minikube 설정 ⚙
 
